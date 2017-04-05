@@ -22,6 +22,6 @@ Founders are obligated to do the following.
 - Be responsible with your great power; don't abuse it.
 - Follow all rules that [Moderators][], [Trusted Players][], and [Noobs][] follow.
 
-[noobs]: role-noobs.md
+[noobs]: role-noob.md
 [trusted players]: role-trusted.md
 [moderators]: role-moderator.md

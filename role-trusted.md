@@ -16,4 +16,4 @@ This role is for people who are trusted to fill in creeper holes.
 - Don't leave your own Creeper holes unfilled.
 - Follow all rules [Noobs][] follow.
 
-[noobs]: role-noobs.md
+[noobs]: role-noob.md

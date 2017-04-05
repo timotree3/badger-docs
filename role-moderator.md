@@ -31,5 +31,5 @@ Moderators are also obligated to do everything that [Trusted Players][] and [Noo
 - Don't Kick or Ban any founders or other moderators.
 - Follow all rules that [Trusted Players][] and [Noobs][] follow.
 
-[noobs]: role-noobs.md
+[noobs]: role-noob.md
 [trusted players]: role-trusted.md
