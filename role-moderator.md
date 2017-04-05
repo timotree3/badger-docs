@@ -9,7 +9,7 @@ Moderators have access to the following moderation commands.
 - `/pardon`
 - `/whitelist`
 
-Moderators can also do anything that Trusted Players or noobs can do.
+Moderators can also do anything that [Trusted Players][] or [Noobs][] can do.
 
 ## Responsibilities
 When a player breaks a rule (e.g. is griefing), a moderator should perform the following the following steps in order. (With a few exceptions.)
@@ -23,10 +23,13 @@ Exceptions:
 - When a player is breaking a rule in a manner that is urgent or time sensitive, a moderator may use `/kick` or may PvP them before informing the player that they are breaking a rule/agreement.
 - When a player is attacking you, use PvP to defend yourself if necessary.
 
-Moderators are also obligated to do everything that Trusted Players and Noobs are obligated to do.
+Moderators are also obligated to do everything that [Trusted Players][] and [Noobs][] are obligated to do.
 
 ## Rules
 - Don't Kick or Ban anyone who isn't griefing.
 - Don't Ban anyone without warning.
 - Don't Kick or Ban any founders or other moderators.
-- Follow all rules that Trusted Players and Noobs follow.
+- Follow all rules that [Trusted Players][] and [Noobs][] follow.
+
+[noobs]: role-noobs.md
+[trusted players]: role-trusted.md

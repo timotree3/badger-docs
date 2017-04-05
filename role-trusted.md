@@ -5,7 +5,7 @@ This role is for people who are trusted to fill in creeper holes.
 ## Permissions
 - Can be blown up by Creepers
 - Have access to "trusted only" areas and supplies
-- Anything that a noob can do
+- Anything that [Noobs][] can do
 
 ## Responsibilities
 - Upon causing a Creeper to explode in an area where a player has built, repair any damage caused by the explosion.
@@ -14,4 +14,6 @@ This role is for people who are trusted to fill in creeper holes.
 
 ## Rules
 - Don't leave your own Creeper holes unfilled.
-- Follow all rules Noobs follow.
+- Follow all rules [Noobs][] follow.
+
+[noobs]: role-noobs.md

@@ -16,8 +16,12 @@ Founders are obligated to do the following.
 - Explain responsibilities to the players who hold them
 - Use cheats to fix the results of glitches
 - Join ALC-NYC Discord server
-- Do everything that Moderators, Trusted Players, and Noobs are obligated to do.
+- Do everything that [Moderators][], [Trusted Players][], and [Noobs][] are obligated to do.
 
 ## Rules
 - Be responsible with your great power; don't abuse it.
-- Follow all rules that Moderators, Trusted Players, and Noobs follow.
+- Follow all rules that [Moderators][], [Trusted Players][], and [Noobs][] follow.
+
+[noobs]: role-noobs.md
+[trusted players]: role-trusted.md
+[moderators]: role-moderator.md
